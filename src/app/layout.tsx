@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Naira Agro",
-  description: "Beautifull Organic Farm",
+  description: "beautiful Organic Farm",
 };
 
 export default function RootLayout({
